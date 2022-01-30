@@ -1,5 +1,5 @@
 {
-  "name": "usps",
+  "name": "track-usps",
   "version": "0.0.1",
   "description": "USPS package tracker",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "track"
   ],
   "author": "",
-  "license": "UNLICENSED",
+  "license": "LGPL-3.0-only",
   "dependencies": {
     "colors": "^1.4.0",
     "xml2js": "^0.4.23"
