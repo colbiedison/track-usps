@@ -1,0 +1,166 @@
+{
+  "TrackResponse": {
+    "TrackInfo": [
+      {
+        "$": {
+          "ID": "9400111699000512740180"
+        },
+        "Class": [
+          "First-Class Package Service"
+        ],
+        "ClassOfMailCode": [
+          "FC"
+        ],
+        "DestinationCity": [
+          "AUBURN"
+        ],
+        "DestinationState": [
+          "AL"
+        ],
+        "DestinationZip": [
+          "36830"
+        ],
+        "EmailEnabled": [
+          "true"
+        ],
+        "ExpectedDeliveryDate": [
+          "January 26, 2022"
+        ],
+        "KahalaIndicator": [
+          "false"
+        ],
+        "MailTypeCode": [
+          "DM"
+        ],
+        "MPDATE": [
+          "2022-01-22 09:21:40.000000"
+        ],
+        "MPSUFFIX": [
+          "577849602"
+        ],
+        "OnTime": [
+          "false"
+        ],
+        "OriginCity": [
+          "DOVER"
+        ],
+        "OriginState": [
+          "NJ"
+        ],
+        "OriginZip": [
+          "07801"
+        ],
+        "PodEnabled": [
+          "false"
+        ],
+        "TPodEnabled": [
+          "false"
+        ],
+        "RestoreEnabled": [
+          "false"
+        ],
+        "RramEnabled": [
+          "false"
+        ],
+        "RreEnabled": [
+          "false"
+        ],
+        "Service": [
+          "USPS Tracking<SUP>&#174;</SUP>"
+        ],
+        "ServiceTypeCode": [
+          "001"
+        ],
+        "Status": [
+          "USPS in possession of item"
+        ],
+        "StatusCategory": [
+          "Accepted"
+        ],
+        "StatusSummary": [
+          "USPS is now in possession of your item as of 3:09 pm on January 22, 2022 in DOVER, NJ 07801."
+        ],
+        "TABLECODE": [
+          "T"
+        ],
+        "TrackSummary": [
+          {
+            "EventTime": [
+              "3:09 pm"
+            ],
+            "EventDate": [
+              "January 22, 2022"
+            ],
+            "Event": [
+              "USPS in possession of item"
+            ],
+            "EventCity": [
+              "DOVER"
+            ],
+            "EventState": [
+              "NJ"
+            ],
+            "EventZIPCode": [
+              "07801"
+            ],
+            "EventCountry": [
+              ""
+            ],
+            "FirmName": [
+              ""
+            ],
+            "Name": [
+              ""
+            ],
+            "AuthorizedAgent": [
+              "false"
+            ],
+            "EventCode": [
+              "03"
+            ]
+          }
+        ],
+        "TrackDetail": [
+          {
+            "EventTime": [
+              "2:09 pm"
+            ],
+            "EventDate": [
+              "January 22, 2022"
+            ],
+            "Event": [
+              "Shipping Label Created, USPS Awaiting Item"
+            ],
+            "EventCity": [
+              "JERSEY CITY"
+            ],
+            "EventState": [
+              "NJ"
+            ],
+            "EventZIPCode": [
+              "07302"
+            ],
+            "EventCountry": [
+              ""
+            ],
+            "FirmName": [
+              ""
+            ],
+            "Name": [
+              ""
+            ],
+            "AuthorizedAgent": [
+              "false"
+            ],
+            "EventCode": [
+              "GX"
+            ],
+            "DeliveryAttributeCode": [
+              "33"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

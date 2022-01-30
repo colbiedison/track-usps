@@ -1,0 +1,20 @@
+{
+  "name": "usps",
+  "version": "0.0.1",
+  "description": "USPS package tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "usps",
+    "package",
+    "track"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "xml2js": "^0.4.23"
+  }
+}
